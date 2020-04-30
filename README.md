@@ -1,6 +1,6 @@
 # HexFold
 
-[![License](https://img.shields.io/github/license/sbj42/hexfold.svg)](https://github.com/sbj42/hexfold)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ![promo image](promo/promo-440.png)
 
