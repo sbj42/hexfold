@@ -1,0 +1,20 @@
+{
+  "name": "hexfold",
+  "version": "0.2.0",
+  "private": true,
+  "description": "A web-based puzzle game inspired by the puzzle toy Cool Circuits",
+  "keywords": [
+    "puzzle",
+    "game"
+  ],
+  "repository": "https://github.com/sbj42/hexfold.git",
+  "author": "James Clark <jameswclark@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "lws --stack lws-static -d src"
+  },
+  "devDependencies": {
+    "lws": "^3.0.0",
+    "lws-static": "^2.0.0"
+  }
+}
