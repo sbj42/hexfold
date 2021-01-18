@@ -1,6 +1,7 @@
 # HexFold
 
 ![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/circuits-scrambled-blue)
 
 ![promo image](promo/promo-440.png)
 
